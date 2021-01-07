@@ -15,10 +15,20 @@
   <img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<a href="https://codeforces.com/profile/Kritagya_khandelwal/">
+  <img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+</a>
+
+<a href="https://www.codechef.com/users/kritagya_yash">
+  <img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yash-khandelwal.yash-khandelwal)
 
 <br />
 I am full-stack developer(MERN and Django). Anything comes in my way I learn it.
+
+<br />
 
 ### **About me:**
 - 🔭 I’m currently working on MERN stack.
