@@ -1,29 +1,27 @@
-### Hey there 👋, this is [Kritagya!](https://yash-khandelwal.github.io/Portfolio/)
+### Hey there 👋, this is [Kritagya!](https://yash-khandelwal.github.io/Portfolio/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yash-khandelwal.yash-khandelwal)
 <br />
 <a href="https://twitter.com/KritagyaKhande1">
-  <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="twitter" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kritagya-khandelwal">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://www.instagram.com/kritagyakhandelwal/">
-  <img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <a href="https://www.facebook.com/kritagya.khandelwal/">
-  <img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <a href="https://codeforces.com/profile/Kritagya_khandelwal/">
-  <img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+  <img align="left" alt="instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
 
 <a href="https://www.codechef.com/users/kritagya_yash">
-  <img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="left" alt="instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=yash-khandelwal.yash-khandelwal)
 
 <br />
 I am full-stack developer(MERN and Django). Anything comes in my way I learn it.
