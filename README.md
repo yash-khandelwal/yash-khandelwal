@@ -1,5 +1,7 @@
 ### Hey there 👋, this is [Kritagya!](https://yash-khandelwal.github.io/Portfolio/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yash-khandelwal.yash-khandelwal)
+
 <br />
+
 <a href="https://twitter.com/KritagyaKhande1">
   <img align="left" alt="twitter" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -22,7 +24,6 @@
 <a href="https://www.codechef.com/users/kritagya_yash">
   <img align="left" alt="instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
-
 <br />
 
 I am full-stack developer(MERN and Django). Anything comes in my way I learn it.
