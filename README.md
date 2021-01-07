@@ -24,6 +24,7 @@
 </a>
 
 <br />
+
 I am full-stack developer(MERN and Django). Anything comes in my way I learn it.
 
 <br />
