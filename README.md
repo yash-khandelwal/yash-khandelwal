@@ -1,5 +1,5 @@
 ### Hey there 👋, this is [Kritagya!](https://yash-khandelwal.github.io/Portfolio/)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=yash-khandelwal.yash-khandelwal)
 I am full-stack developer(MERN and Django). Anything comes in my way I learn it.
 
 ### **About me:**
