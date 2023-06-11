@@ -31,10 +31,10 @@ I am full-stack developer(MERN and Django). Anything comes in my way I learn it.
 <br />
 
 ### **About me:**
-- 🔭 I’m currently working as a Software Engineer at 314e Corporation.
-- 🌱 I’m currently learning Reactjs, computer vision, flutter
-- 👯 I’m looking to collaborate on a fitness app with computer vission capabilities
-- 🤔 I’m looking for help with flutter
+- 🔭 I’m currently working as a Software Engineer at Yubi.
+- 🌱 I’m currently learning Kafka, Java, Elasticsearch.
+- 👯 I’m looking to collaborate on technical discussions and organising tech talks.
+- 🤔 I’m looking for help technical blogging
 - 💬 Ask me about anything, will see how it goes...
 - 📫 How to reach me: kritagya.0398@gmail.com
 - ⚡ Fun fact: star you are looking at night, may be not any more...
